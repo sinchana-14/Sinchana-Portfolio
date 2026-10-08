@@ -589,7 +589,7 @@ function renderOptionalSections(optional) {
 }
 
 function renderResume(profile) {
-  const resumePath = profile.resumePath || './resume/SinchanaRes-JAVA.pdf';
+  const resumePath = profile.resumePath || "./resume/SINCHANA'S-RESUME.pdf";
 
   const downloadBtns = document.querySelectorAll('.resume-download-btn');
   downloadBtns.forEach(btn => {

@@ -23,7 +23,7 @@ const profileData = {
   location: "Bengaluru", // [Your Location] placeholder
   githubUrl: "https://github.com/sinchana-14", // [GitHub URL] placeholder
   linkedinUrl: "https://www.linkedin.com/in/sinchana-h-s-128a02301/", // [LinkedIn URL] placeholder
-  resumePath: "./resume/SinchanaRes-JAVA.pdf", // [Resume Path]
+  resumePath: "./resume/SINCHANA'S-RESUME.pdf", // [Resume Path]
   avatarUrl: "./assets/images/IMG-20260730-WA0014.jpg"
 };
 
